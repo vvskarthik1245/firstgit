@@ -1,2 +1,2 @@
 # firstgit
-first github
+first githu
